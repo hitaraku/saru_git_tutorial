@@ -3,4 +3,5 @@ aaasdf
 [add] tutorial2
 commit インデックスの状態を記録する
 pull リモートリポジトリの内容を取得する
-6: line
+5: add new line
+6: new line
